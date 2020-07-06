@@ -1,6 +1,11 @@
 {
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'Cascadia Code', 'monospace', 'Consolas', 'DejaVu Sans Mono', 'monospace', 'Cascadia Code', 'Fira Code', 'Hack', 'Inconsolata', 'Ubuntu Mono', 'Monaco'",
+  "editor.fontFamily": "'Victor Mono'",
   "font-switcher.enableLivePreview": true,
-  "font-switcher.fontFamily": "'Consolas', 'DejaVu Sans Mono', 'monospace', 'Cascadia Code', 'Fira Code', 'Hack', 'Inconsolata', 'Ubuntu Mono', 'Monaco'"
+  "font-switcher.fontFamily": "'Consolas', 'DejaVu Sans Mono', 'monospace', 'Cascadia Code', 'Fira Code', 'Hack', 'Inconsolata', 'Ubuntu Mono', 'Monaco'",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
 }
