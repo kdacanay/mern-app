@@ -41,7 +41,7 @@ router.post('/', [
         s: '200',
         r: 'pg',
         d: 'mm'
-      })
+      });
 
       user = new User({
         name,
@@ -62,7 +62,7 @@ router.post('/', [
         user: {
           id: user.id
         }
-      }
+      };
       jwt.sign(payload,
         config.get('jwtSecret'),
         { expiresIn: 3600000 },

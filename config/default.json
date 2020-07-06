@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://ken1234:ken1234@traversysocialmediaapp.cvqhg.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientid": "461b08223889062b1160",
+  "githubSecret": "448891483b39f4e564a27345349cc12b5d70d6f8"
 }

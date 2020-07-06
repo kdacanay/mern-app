@@ -1,0 +1,6 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Cascadia Code', 'monospace', 'Consolas', 'DejaVu Sans Mono', 'monospace', 'Cascadia Code', 'Fira Code', 'Hack', 'Inconsolata', 'Ubuntu Mono', 'Monaco'",
+  "font-switcher.enableLivePreview": true,
+  "font-switcher.fontFamily": "'Consolas', 'DejaVu Sans Mono', 'monospace', 'Cascadia Code', 'Fira Code', 'Hack', 'Inconsolata', 'Ubuntu Mono', 'Monaco'"
+}
