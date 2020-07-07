@@ -1,6 +1,6 @@
 {
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'Victor Mono'",
+  "editor.fontFamily": "'Victor Mono Light'",
   "font-switcher.enableLivePreview": true,
   "font-switcher.fontFamily": "'Consolas', 'DejaVu Sans Mono', 'monospace', 'Cascadia Code', 'Fira Code', 'Hack', 'Inconsolata', 'Ubuntu Mono', 'Monaco'",
   "prettier.jsxSingleQuote": true,
